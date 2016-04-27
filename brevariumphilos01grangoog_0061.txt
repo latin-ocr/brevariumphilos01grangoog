@@ -1,0 +1,52 @@
+aaaron raas r. ts
+
+Triplex est conversio : simplex, per accidens, et per
+gontrapositionem, quae tamennon est conversio proprie
+icta.
+
+1⁰ Conversio simplem habetur, quando iit motatio ter·
+minorum, seruata eadem quantitate propositionis, ilinc
+non contigit nisi in propositionibus quarum subjectum
+et praedicatum habent eamdem extensionem, ac proinde
+a) in particulari affirmativa, ac b) in universali negativa.
+
+econverso dicitur per accidens, quando variam
+quantitas propositionis, nempe quando ex universali iit
+particularis et vicissim, saltem si ratione materia dari
+posset conversio propositionis particularis in universa·
+lem. Hinc locum habet in propositione universali affir-
+mante. liniversalis negans potest etiam isto modo
+nonest converti; v. gr. : Nullum corpus cogitat. Aliquid
+cogitans corpus.
+
+3³ Conversio per contrapositionem habetur, quando
+ntriqne terrnino transposito precipitur particula non,
+ita ut termini conversi ex finitis in infinitos mutentur.
+llio modus convertendi a Dialecticis fuit excogitatus,
+quia solus propositioni particulari neganti potest aptari.
+Propositio enim haec non potest converti ε alsirnpliciter,
+quia attributum est universale, dum subjectum est par·
+tioularc, unde nulla conversio possibilis sine mutatione
+quantitatis. b) Non potest etiarn converti per accidens,
+nam subJ'ectum particulare transiens in attributum pro· ’
+positionis negantis fit semper universale; igitur eamdem
+non servaret quantitatem: Sit in exemplum ista sequens
+propositio : Aliquis homo non est medicus; haecnon
+potest sinc absurditate converti simpliciter ε
+
+Aliquis medicus non est homo3
+
+Neque per accidens: Omnis medicus non esthom0.
+
+Convertitur ergo per contrapositionem, et sic, Juxta for·
+marn dialecticam, habemus :
+
+Aliquis non medicus non est non homo, seu more vul·
+gari loquendi :
+
+Aliquis, quinon est medicus, est homo.
+
+ψ
+
+ 
+

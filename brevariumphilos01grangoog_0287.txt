@@ -1,0 +1,63 @@
+mmzx SYNOP'HCUS· 269
+
+ARTIGULUS V.
+De propositionum proprietatibus.
+
+Tres sunt proprietates propositioniS‚ oppositiO, aequi-
+pollentia, conversio. 39
+1. De oppositione.
+
+oppositio est repugnantia inter duas propositiones
+eodem subjecto et pre 'cato constantes Differre possunt
+propositiones tum quantitate, tum qualitate, tum utra-
+que simul. Exinde quadruplex exsurgit oppositionis
+
+specieS, quae sequentihus reguntur rincipiis. 39
+Ι. Principium. propositiones suba ternae possunt esse
+
+simul falsae et simul verae. 40
+ΙΙ. Principium. contradictoriae non possunt esse simul
+
+verae nec simul falsae. 40
+111. Principium. 10 propositiones contrariae possunt
+
+esse simul falsae3 20 non possunt esse simul verae. 40
+IV. Principium. propositiones subcontrariae 10 possunt
+
+esse simul verae, 20 non possunt esse simul falsae. 40
+
+II. De aequipollentia.
+
+AEquipollentia est eadem significatio duarum propo-
+sitionum quae eodem subjecto et attributo constant, sed
+differunt una aut altera negatione. 41
+Principiam. Particula negativa in propositione destruit
+id quod post se reperit ε ac proinde mutat quantitatem et
+
+qualitatem, quando praefigitur. 41
+Hinc z Requla I. Quando toti propositioni praefigitur,
+
+haec propositio fit aequipollens suae contradictoriae. 41
+Περαία ΙΙ. Si postponitur subjectO, propositio fit aequi-
+
+pollens suae contrariae. 42
+Περαία ΠΙ. Si subjecto praeponitur simul et postponitur
+
+negatio, propositio fit aequipollens suae subalternae. 42
+
+111. De conversione.
+Conversio est inversio propositioniS‚ salva tamen ejus
+
+maizi& est conversio ε nempe 10 simplex, 20 per acci· 42
+dene, 30 per contrapositionem. 43
+CAPUT 111.
+
+DE RAriocmio.
+
+ARTIGULUS Ι.
+
+De natura ratiocinii.
+
+Ratiocinium definitur : Ea mentis operatio qua, instituta
+‘comparatione duarum idearum cum tertia, illarum inter
+
